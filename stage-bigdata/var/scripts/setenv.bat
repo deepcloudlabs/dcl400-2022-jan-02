@@ -1,0 +1,9 @@
+set JAVA_HOME=d:\stage-bigdata\opt\jdk1.8.0_351
+set PATH=%JAVA_HOME%/bin;%PATH%
+set HADOOP_HOME=d:\stage-bigdata\opt\hadoop-3.3.4
+set HADOOP_CONF_DIR=d:\stage-bigdata\opt\hadoop-3.3.4\etc\hadoop
+set HADOOP_MAPRED_HOME=d:\stage-bigdata\opt\hadoop-3.3.4
+set HADOOP_COMMON_HOME=d:\stage-bigdata\opt\hadoop-3.3.4
+set HADOOP_HDFS_HOME=d:\stage-bigdata\opt\hadoop-3.3.4
+set HADOOP_YARN_HOME=d:\stage-bigdata\opt\hadoop-3.3.4
+set PATH=%HADOOP_HOME%\bin;%HADOOP_HOME%\sbin;%PATH%

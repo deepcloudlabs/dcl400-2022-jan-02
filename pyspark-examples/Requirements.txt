@@ -1,0 +1,3 @@
+pyspark
+websockets
+kafka-python3
